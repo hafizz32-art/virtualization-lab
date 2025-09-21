@@ -6,7 +6,7 @@ Fokusnya adalah membangun beberapa Virtual Machine (Ubuntu 20.04.6 & Windows 10)
 ---
 
 ## Lingkungan
-- **Host:** Windows 11, RAM 8 GB
+- **Host:** Windows 11, RAM 16 GB
 - **Hypervisor:** VirtualBox 7 + Extension Pack
 - **Guest OS:** Ubuntu 20.04.6, Windows 10
 - **Tools:** ifconfig, ipconfig, ping, ssh, PowerShell
